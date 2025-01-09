@@ -5,7 +5,7 @@ Este projeto é um sistema de gerenciamento de usuários desenvolvido com Larave
 ## 📋 Requisitos do Sistema
 
 ### Requisitos Técnicos
-- PHP 8.1 ou superior
+- PHP 8.2 ou superior
 - Composer
 - Node.js 22.12.0 e NPM
 - MySQL 5.7 ou superior
