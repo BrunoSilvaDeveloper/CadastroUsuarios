@@ -15,7 +15,7 @@ class UserRepository
 
     public function all()
     {
-        return $this->model->all();
+        return $this->model->paginate(10);
     }
 
     public function create(array $data)
