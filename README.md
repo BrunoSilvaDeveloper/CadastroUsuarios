@@ -27,6 +27,7 @@ Este projeto é um sistema de gerenciamento de usuários desenvolvido com Larave
 ```bash
 git clone [URL_DO_REPOSITÓRIO]
 cd nome-do-projeto
+cd cadastro-usuarios
 ```
 
 2. Instale as dependências do PHP
